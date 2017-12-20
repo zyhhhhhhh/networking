@@ -1,0 +1,7 @@
+At Sun Apr  3 05:03:22 2016... 
+
+compilation of version 0 failed with:
+gcc -pthread -o ls_router main.c monitor_neighbors.c ls_router.c
+gcc -o manager_send manager_send.c
+ 
+

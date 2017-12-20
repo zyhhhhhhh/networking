@@ -1,0 +1,24 @@
+Sat Feb 20 20:17:26 2016:
+
+mp1 grade report for yzhng127:
+
+ wget retrieving a small file from your server succeeded!
+
+ wget retrieving a big file from your server succeeded!
+
+ your client retrieving a small file from your server succeeded!
+
+ your client retrieving a big file from your server succeeded!
+
+ your client retrieving illinois.edu/index.html succeeded!
+
+ your client properly received 404 content for non-existant file!
+
+ concurrency succeeded!
+
+====================
+
+score: 100/100
+
+
+

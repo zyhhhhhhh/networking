@@ -1,0 +1,37 @@
+At Thu Apr 28 07:39:49 2016... 
+
+test results:
+
+-10:  sanity check: transfer single byte failed: wrote 0 of 1.
+
+-10:  transfer 50K failed: only received 0 of 50000 after 6s.
+
+-15:  utilize empty link failed: 0 of 65000000 were written.
+-10:  drop rate=0.05 failed: received file had an error.
+
+-10:  drop rate=0.25 failed: received file had an error.
+
+-10:  quick convergence failed: failed to send 20MB in 20s (receiver wrote 0 bytes)
+
+-10:  TCP friendliness failed: your process died or ended early. (note: it's being given 999000999000 as the numBytes argument)
+
+-10:  TCP friendliness with 1% loss failed: your process died or ended early. (note: it's being given 999000999000 as the numBytes argument)
+
+-15:  competition vs TCP failed: received file had an error.
+
+====================
+
+score: 0/100
+
+
+
+At Thu Apr 28 20:50:04 2016: 
+*******CHECK compiler_summary.txt FOR RESULTS!!!******
+At Fri Apr 29 06:11:51 2016: 
+*******CHECK compiler_summary.txt FOR RESULTS!!!******
+At Fri Apr 29 20:08:04 2016: 
+*******CHECK compiler_summary.txt FOR RESULTS!!!******
+At Sat Apr 30 02:16:21 2016: 
+*******CHECK compiler_summary.txt FOR RESULTS!!!******
+At Sat Apr 30 16:53:33 2016: 
+*******CHECK compiler_summary.txt FOR RESULTS!!!******

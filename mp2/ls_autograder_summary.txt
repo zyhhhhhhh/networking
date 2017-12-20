@@ -1,0 +1,16 @@
+At Sun Apr  3 20:09:31 2016... 
+
+test results:
+
+ LS send message over 3 node topology succeeded!
+ LS shortest path in example topology succeeded!
+ LS switch to better path when available succeeded!
+ LS fall back to worse path succeeded!
+ LS report unreachable after partition succeeded!
+ LS heal after partition succeeded!
+====================
+
+score: 100/100
+
+
+
